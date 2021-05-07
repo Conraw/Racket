@@ -36,3 +36,10 @@
   ;(print p)
   )
  
+ ;(time
+;(define filename "numbersTEST.txt")
+ ;  (define imported-list (file->list filename))
+;(define sorted-list (merge-sort imported-list))
+;(print sorted-list)
+;(void))
+
